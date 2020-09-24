@@ -2,7 +2,7 @@
  * @Author: Weidows
  * @Date: 2020-09-16 23:32:09
  * @LastEditors: Weidows
- * @LastEditTime: 2020-09-24 21:08:23
+ * @LastEditTime: 2020-09-24 21:48:15
  * @FilePath: \Weidowsd:\Game\Demo\Github\Images\README.md
 -->
 <h1 align="center">
@@ -17,3 +17,11 @@
 # 目前整理有:
   * 绿色植物(PrettyGreen) , 崩坏三(Honkai3) , 星际战甲(Warframe) , 海贼王(Onepiece) , 表情包 , unknown 等等...  
   
+
+
+<center>
+
+# #N.[反馈 & 出处 (Aboue me & Click me)](https://weidows.gitee.io/tags/about)
+
+    后续会更新,同时欢迎有兴趣的提出修改意见或共同整改!
+</center>
